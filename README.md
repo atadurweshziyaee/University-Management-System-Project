@@ -35,7 +35,7 @@ Faculty members can manage student records, upload marks, apply for leave, and t
 ```bash
  git clone https://github.com/atadurweshziyaee/UniversityManagementSystem.git
 ```
-2️⃣ **Run the application via a browser** after compiling the Java code. 🖥️
+2️⃣ **Run the application via any IDE** after compiling the Java code. 🖥️
 
 ---
 
